@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3d049107-3438-4b82-a44a-2b5bd2312e7e" name="app" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="/media/ubunsu/10EA137A10EA137A/kuliah/node" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
